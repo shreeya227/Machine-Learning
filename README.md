@@ -1,1 +1,1 @@
-Sentiment Analysis of IMdb Movie reviews
+Sentiment Analysis of IMDb Movie reviews
